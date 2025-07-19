@@ -1,0 +1,51 @@
+Product Name	Dimensions
+white pepper (வெள்ளை மிளகு)	3.5*3.5
+Vegetable Masala (சப்ஜி மசாலா)	4.0*2.5
+Turmeric (மஞ்சள்)	3.5*3.5
+Turmeric (மஞ்சள்)	4.0*2.5
+Turkey Berry (சுண்டக்காய்)	4.0*2.5
+Tea Spice (டீ மசாலா)	4.0*2.5
+Star Anise (நட்சத்திர சோம்பு)	4.0*2.5
+Seed Mix(விதை கலவை)	4.0*2.5
+Sambar (சாம்பார் பொடி)	4.5* 3
+Rice Lentil Powder (பருப்பு பொடி)	4.0*2.5
+Rice Flour (அரிசி மாவு)	4.5* 3
+Red Chili (சிவப்பு மிளகாய்)	4.0*2.5
+Rasam (ரசம் பொடி)	4.5* 3
+Palm Sugar (பனை வெல்லம்)	4.5* 3
+Nutmeg (ஜாதிக்காய்)	4.0*2.5
+Maldive Fish (மாசி)	4.5* 3
+Mace (ஜாதிபத்திரி)	4.0*2.5
+Instant Rasam (இன்ஸ்டன்ட் ரசம் பொடி)	4.5* 3
+Ghee (நெய்)	4.0*2.5
+Garam Masala (கரம் மசாலா)	4.5* 3
+Fenugreek (வெந்தயம்)	4.5* 3
+Fennel (சோம்பு)	4.0*2.5
+Dry Mango (மாங்காய் வற்றல்)	3.5*3.5
+Dry Ginger (சுக்கு)	3.5*3.5
+Dry Ginger (சுக்கு)	4.0*2.5
+Dry Fish (கருவாடு)	4.0*2.5
+Drumstick rice powder (முருங்கைக்காய் சாதப் பொடி)	4.0*2.5
+Dried Lentil Fritters (வடகம்)	4.5* 3
+Curry Leaves rice powder (கறிவேப்பிலை சாதப் பொடி)	4.5* 3
+Curry Leaves (கறிவேப்பிலை)	3.5*3.5
+Curry Gravy/ Base (குழம்பு தூள்)	4.5* 3
+Cumin Seeds (சீரகம்)	4.5* 3
+Cumin Powder (சீரகத்தூள்)	4.0*2.5
+Coriander (தனியா)	3.5*3.5
+Coriander (தனியா)	4.0*2.5
+Cloves (லவங்கம்)	4.0*2.5
+Cinnamon powder (இலவங்கப்பட்டை தூள்)	3.5*3.5
+Cinnamon (இலவங்கப்பட்டை)	4.0*2.5
+Chilli Powder (மிளகாய் தூள்)	4.5* 3
+Chili Guntur (குண்டூர் மிளகாய்)	3.5*3.5
+Chili Flakes (மிளகாய் செதில்கள்)	3.5*3.5
+Chili (மிளகாய் தூள்)	3.5*3.5
+Chat Masala (சாட் மசாலா)	3.5*3.5
+Cardamom (ஏலக்காய்)	4.0*2.5
+Broken Lentils (உடைத்த கடலை)	4.0*2.5
+Black Pepper (மிளகு)	4.0*2.5
+Black Nightshade Berries (மணத்தக்காளி)	4.0*2.5
+Black Cardamom (கருப்பு ஏலக்காய்)	4.0*2.5
+Asafoetida (பெருங்காயம்)	3.5*3.5
+Adai Flour (அடை மாவு)	4.5* 3
